@@ -361,12 +361,19 @@ input, textarea {
 }
 .box-category {
 	border: 1px solid black;
-	/*box-shadow: 5px 5px 5px #888888;*/
+	box-shadow: 5px 5px 5px #888888;
 	/*height: 250px;*/
 	padding: 10px;
 	clear: both;
 	/*height: 200px;*/
 	text-align: center;
+}
+.box-category a {
+	text-decoration: none;
+	color: black;
+}
+.box-category a:hover {
+	font-weight: bold;
 }
 dl {
 	 width:100%;
