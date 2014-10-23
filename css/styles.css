@@ -21,7 +21,10 @@
 	height: 500px;
 	width: 100%;
 	position: fixed;
-	background: #000000 url('../img/site/yellow-snake-03.jpg') no-repeat right;
+	/*background: #000000 url('../img/site/yellow-snake-03.jpg') no-repeat right;*/
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: right;
 	background-size: contain;
 }
 #header {

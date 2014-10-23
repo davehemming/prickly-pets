@@ -51,6 +51,30 @@ $(document).ready(function() {
 		resetHeights();
 	});
 
+	var url = $(location).attr('pathname');
+	// console.log(url);
+	// console.log(url.indexOf('amphibians') >= 0);
+
+	if (url.indexOf('amphibians') >= 0) {
+
+		$('#top').css("background-image", "url('../../img/site/amphibians-banner.png')");
+	} else if (url.indexOf('mammals') >= 0) {
+		$('#top').css("background-image", "url('../../img/site/mammals-banner.png')");
+	} else if (url.indexOf('reptiles') >= 0) {
+		$('#top').css("background-image", "url('../../img/site/reptiles-banner.png')");
+	} else {
+		if (url.indexOf('prickly-pets/index.html') >= 0) {
+			$('#top').css("background-image", "url('img/site/site-banner.jpg')");
+		} else if (url.indexOf('about.html') >= 0 || url.indexOf('contact.html') >= 0) {
+			$('#top').css("background-image", "url('../img/site/site-banner.jpg')");
+		} else {
+			$('#top').css("background-image", "url('../../img/site/site-banner.jpg')");
+		}
+
+	}
+
+
+
 	// $('input').focus(function(evt) {
 	// 	// console.log('focus');
 	// 	$(this).val('');

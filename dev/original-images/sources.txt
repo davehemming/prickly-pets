@@ -74,3 +74,5 @@ Meat Diet Package:
 Fruit Diet Package:
 	(main)	http://www.arcatapet.com/fullsize/5697.jpg
 	(thumb)	http://www.arcatapet.com/fullsize/5697.jpg
+Wolf Banner:
+	http://automobilein.com/black-wolf-wallpapers/
