@@ -22,18 +22,27 @@ Cane Toad:
 	http://s.hswstatic.com/gif/cane-toad0.jpg
 Stoat: 
 	http://www.helsinki.fi/science/metapop/images/stoat.jpg
+
 White Tiger:
-	http://images.fineartamerica.com/images-medium-large/white-tiger-nancy-coelho.jpg
+	(main)	http://images.fineartamerica.com/images-medium-large/white-tiger-nancy-coelho.jpg
+	(thumb)	http://ilovekellz.files.wordpress.com/2010/04/white-tiger1.jpg
 White Wolf Cub:
-	http://24.media.tumblr.com/tumblr_lxwclxsiiM1r1knwfo1_500.jpg
+	(main)	http://24.media.tumblr.com/tumblr_lxwclxsiiM1r1knwfo1_500.jpg
+	(thumb)	http://media-cache-ak0.pinimg.com/236x/93/ef/fc/93effc41ffe8a0f81efbf9d92b6d9191.jpg
 Lemur:
-	http://andromedababe.files.wordpress.com/2012/04/lemur.jpg
+	(main)	http://andromedababe.files.wordpress.com/2012/04/lemur.jpg
+	(thumb)	http://www.tierchenwelt.de/images/stories/fotos/saeugetiere/affen/lemur_steckbrief/lemur_fressen.jpg
+
 King Cobra:
-	http://www.myinterestingfacts.com/wp-content/uploads/2013/09/King-Cobra.jpg
+	(main)	http://www.myinterestingfacts.com/wp-content/uploads/2013/09/King-Cobra.jpg
+	(thumb)	http://zoo.sandiegozoo.org/sites/default/files/animal_hero/T05-0001-0111.jpg
 Thorny Dragon:
-	http://www.asknature.org/images/uploads/strategy/3f47ec0d4343c94f82e19e103ac20c34/thornydevil_feature.jpg
+	(main)	http://www.asknature.org/images/uploads/strategy/3f47ec0d4343c94f82e19e103ac20c34/thornydevil_feature.jpg
+	(thumb)	https://c2.staticflickr.com/8/7071/7232707840_1ca26bb10e_z.jpg
 Komodo Dragon:
-	http://www.absolutepredator.com/images/Komodo-Dragon.jpg
+	(main)	http://www.absolutepredator.com/images/Komodo-Dragon.jpg
+	(thumb)	http://focusingonwildlife.com/news/wp-content/uploads/2012/08/Dragon-Komodo-Komodo-Indo-AR-594.jpg
+
 Chinese Giant Salamander:
 	http://scienceblogs.com/tetrapodzoology/wp-content/blogs.dir/471/files/2012/05/i-6e688c993162802be4c92299ba6c7f93-Andrias-Karlsruhe-3-MB-Dec-2010.jpg
 Danube Crested Newt:
