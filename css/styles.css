@@ -240,6 +240,13 @@ h4 {
 	font-size: 1.4em;
 	padding: 10px 0 10px 0;
 }
+h5 {
+	font-size: 1.2em;
+	padding: 10px 0 10px 0;
+}
+p {
+	margin-top: 10px;
+}
 .box {
 	border: 1px solid black;
 	padding: 10px;
@@ -276,6 +283,16 @@ h4 {
 .box-product-blurb a:hover {
 	text-decoration: underline;
 }
+.box-product-img img {
+	display: block;
+	max-width: 100%;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+/*.box-product-desc p:first-of-type {
+	margin-top: 20px;
+}*/
 
 [class*="box"] h4 {
 	/*background-color: blue;*/
@@ -290,7 +307,21 @@ h4 {
 	/*height: 200px;*/
 	text-align: center;
 }
-
+dl {
+	 width:100%;
+	 overflow:hidden;
+}
+dt {
+	 float:left;
+	 width:20%;
+	 font-weight: bold;
+	 margin: 5px 0px 5px 0px;
+}
+dd {
+	 float:left;
+	 width:70%;
+	 margin: 5px 0px 5px 0px;
+}
 .header-subtext {
 	font-size: 0.9em;
 	color: #6F6464;
