@@ -24,3 +24,7 @@ Stoat:
 	http://www.helsinki.fi/science/metapop/images/stoat.jpg
 White Tiger:
 	http://images.fineartamerica.com/images-medium-large/white-tiger-nancy-coelho.jpg
+White Wolf Cub:
+	http://24.media.tumblr.com/tumblr_lxwclxsiiM1r1knwfo1_500.jpg
+Lemur:
+	http://andromedababe.files.wordpress.com/2012/04/lemur.jpg
