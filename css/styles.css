@@ -290,6 +290,29 @@ p {
     height: auto;
     border: 1px solid black;
 }
+.box-about-us img {
+	display: block;
+	max-width: 100%;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+.box-staff-info {
+	margin-bottom: 30px;
+	/*margin: 0 0 30px 50px;*/
+}
+.box-staff-info img {
+	display: block;
+	float: left;
+	margin: 0 10px 10px 0;
+	max-width: 30%;
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+.box-staff-info p {
+	margin-top: 0;
+}
 /*.box-product-desc p:first-of-type {
 	margin-top: 20px;
 }*/
