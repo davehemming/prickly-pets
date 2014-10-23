@@ -246,6 +246,7 @@ h5 {
 }
 p {
 	margin-top: 10px;
+	line-height: 25px;
 }
 .box {
 	border: 1px solid black;
