@@ -50,8 +50,11 @@ Komodo Dragon:
 	(thumb)	http://focusingonwildlife.com/news/wp-content/uploads/2012/08/Dragon-Komodo-Komodo-Indo-AR-594.jpg
 
 Chinese Giant Salamander:
-	http://scienceblogs.com/tetrapodzoology/wp-content/blogs.dir/471/files/2012/05/i-6e688c993162802be4c92299ba6c7f93-Andrias-Karlsruhe-3-MB-Dec-2010.jpg
+	(main)	http://scienceblogs.com/tetrapodzoology/wp-content/blogs.dir/471/files/2012/05/i-6e688c993162802be4c92299ba6c7f93-Andrias-Karlsruhe-3-MB-Dec-2010.jpg
+	(thumb)	http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/c/ch/chinese_giant_salamander/chinese_giant_salamander_1.jpg
 Danube Crested Newt:
-	http://www.farmlator.hu/wp-content/uploads/Danube-Crested-Newt.jpg
+	(main)	http://www.farmlator.hu/wp-content/uploads/Danube-Crested-Newt.jpg
+	(thumb)	http://wdfw.wa.gov/ais/graphics/species_images/triturus_dobrogicus.jpg
 Strawberry Poison Dart Frog:
-	http://fineartamerica.com/images-medium/strawberry-poison-dart-frog-ashley-dowling.jpg
+	(main)	http://fineartamerica.com/images-medium/strawberry-poison-dart-frog-ashley-dowling.jpg
+	(thumb)	http://farm4.static.flickr.com/3403/3489070687_17e9971261.jpg
