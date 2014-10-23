@@ -1,0 +1,44 @@
+#top {
+	color: #FFF;
+	height: 500px;
+	width: 100%;
+	position: fixed;
+	background: #000000 url('../../img/yellow-snake-03.jpg') no-repeat right;
+	background-size: contain;
+}
+/*#top {
+	position: fixed;
+	background-color: #000;
+	background-image: url('../img/yellow-snake-03.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+}*/
+#header {
+	display: block;
+	height: 200px;
+	width: 960px;
+	text-align: center;
+	padding-top: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	position: relative;
+	top: 305px;
+	height: 248px;
+	width: 400px;
+	background: url('../../img/logo-02.png') no-repeat left;
+	z-index: 5;
+}
+article {
+	background-color: #fff;
+	display: block;
+	height: 1200px;
+	width: 100%;
+	text-align: center;
+	padding-top: 100px;
+	/*z-index: 5;*/
+	position: absolute;
+	top: 500px;
+}

@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+
+@font-face {
+  font-family: 'Open Sans';
+  src:  url('../../type/open-sans/OpenSans-Regular.ttf')  format('truetype');
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+  background: white;
+  margin: 0 0 20px 0;
+}
+.row:after {
+  /* Or @extend clearfix */
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*='col-'] {
+  float: left;
+  padding-right: 20px;
+}
+.row [class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+.col-12 {
+  width: 100%;
+}
+.col-11 {
+  width: 91.663%;
+}
+.col-10 {
+  width: 83.33%;
+}
+.col-9 {
+  width: 74.997%;
+}
+.col-8 {
+  width: 66.664%;
+}
+.col-7 {
+  width: 58.331%;
+}
+.col-6 {
+  width: 49.998%;
+}
+.col-5 {
+  width: 41.665%;
+}
+.col-4 {
+  width: 33.332%;
+}
+.col-3 {
+  width: 24.999%;
+}
+.col-2 {
+  width: 16.666%;
+}
+.col-1 {
+  width: 8.333%;
+}
+.module {
+  padding: 20px;
+  background: #eee;
+}
+
+/* Opt-in outside padding */
+.row-pad {
+  padding: 20px 0 20px 20px;
+}
+.row-pad [class*='col-']:last-of-type {
+  padding-right: 20px;
+}
+
+body {
+  padding: 10px 50px 200px;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
