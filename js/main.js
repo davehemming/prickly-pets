@@ -65,7 +65,7 @@ $(document).ready(function() {
 	} else {
 		if (url.indexOf('prickly-pets/index.html') >= 0) {
 			$('#top').css("background-image", "url('img/site/site-banner.jpg')");
-		} else if (url.indexOf('about.html') >= 0 || url.indexOf('contact.html') >= 0) {
+		} else if (url.indexOf('about') >= 0 || url.indexOf('contact') >= 0) {
 			$('#top').css("background-image", "url('../img/site/site-banner.jpg')");
 		} else {
 			$('#top').css("background-image", "url('../../img/site/site-banner.jpg')");
