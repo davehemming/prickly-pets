@@ -374,10 +374,12 @@ input, textarea {
 }
 .box-category a {
 	text-decoration: none;
-	color: black;
+	/*color: black;*/
+	color: #585050
 }
 .box-category a:hover {
-	font-weight: bold;
+	/*font-weight: bold;*/
+	color: #000;
 }
 dl {
 	 width:100%;
