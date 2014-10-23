@@ -58,3 +58,19 @@ Danube Crested Newt:
 Strawberry Poison Dart Frog:
 	(main)	http://fineartamerica.com/images-medium/strawberry-poison-dart-frog-ashley-dowling.jpg
 	(thumb)	http://farm4.static.flickr.com/3403/3489070687_17e9971261.jpg
+
+Anteater:
+	(main)	http://blog.londolozi.com/wp-content/uploads/2012/08/blog.anteater-half.jpg
+	(thumb)	http://www.spoof99.com/wp-content/uploads/2013/09/Come-at-me-bro-funny-anteater.jpg
+Poison Guard Gloves:
+	(main)	https://www.animal-care.com/inc/cart/Assets/product_expanded/bitebuster%20beast.jpg
+	(thumb)	http://ecx.images-amazon.com/images/I/31nyy%2BLeF3L._SY300_.jpg
+Insect Diet Package:
+	(main)	http://www.arcatapet.com/jumbo/20152.jpg
+	(thumb)	http://www.arcatapet.com/jumbo/20152.jpg
+Meat Diet Package:
+	(main)	http://www.petsolutions.com/images/Products/59600878.jpg
+	(thumb)	http://www.petsolutions.com/images/Products/59600878.jpg
+Fruit Diet Package:
+	(main)	http://www.arcatapet.com/fullsize/5697.jpg
+	(thumb)	http://www.arcatapet.com/fullsize/5697.jpg
