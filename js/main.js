@@ -1,13 +1,29 @@
 $(document).ready(function() {
+
+	// Hack to fix height issue.
 	function resetHeights() {
 		$('.row').each(function() {
-			var height = $(this).innerHeight();
+			var $columns = $(this).find('[class*="col-"]');
+			if ($columns.length > 1) {
+				var maxColHeight = 0;
 
-			$(this).find('[class*="col-"]').each(function() {
-				$(this).css('height', height);
-			});
+				$columns.each(function() {
+					var colHeight = parseInt($(this).innerHeight());
+					if (colHeight > maxColHeight) {
+						maxColHeight = colHeight;
+					}
+				});
 
-			// console.log(height);
+				$columns.each(function() {
+					var colHeight = parseInt($(this).innerHeight());
+					if (colHeight !== maxColHeight) {
+						// 10 is the current css margin value. hardcoded, not ideal.
+						$(this).css('height', (maxColHeight - 10) + 'px');
+					}
+				});
+
+				console.log(maxColHeight);
+			}
 		});
 	}
 
